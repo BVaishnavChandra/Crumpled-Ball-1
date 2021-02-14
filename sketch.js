@@ -11,7 +11,7 @@ var Dustbin_image;
 
 function preload()
 {
-	Dustbin_image = loadImage("Images/dustbin.png")
+	Dustbin_image = loadImage("dustbin.png")
 }
 
 function setup() {
