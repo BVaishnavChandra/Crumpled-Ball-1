@@ -14,7 +14,7 @@ class Paper
         this.r=r;
         this.body=Bodies.circle(x,y,this.r,options);
 
-        this.image = loadImage("Images/crumpled ball.png");
+        this.image = loadImage("crumpled ball.png");
 
         World.add(world,this.body);
         
