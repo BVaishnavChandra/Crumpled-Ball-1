@@ -14,7 +14,7 @@ class Dustbin{
       this.width = width ;
       this.height = height ;
      
-      this.image = loadImage("Images/dustbin.png");
+      this.image = loadImage("dustbin.png");
 
       World.add(world,this.planko)
 
